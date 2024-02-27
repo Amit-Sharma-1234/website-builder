@@ -1,0 +1,9 @@
+.iterate-card {
+  max-width: 1024px;
+  margin: auto;
+  display: flex;
+  /* justify-content: space-evenly; */
+  gap: 30px;
+  /* background-color: red; */
+  margin-bottom: 19px;
+}

@@ -1,0 +1,37 @@
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background: #212731;
+  height: 64px;
+  color: #fff;
+}
+.search-bar {
+  position: relative;
+}
+.search-input {
+  width: 258px;
+  height: 37px;
+  border-radius: 8px;
+  border: 1px solid #e1e4e6;
+}
+.search-icon {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  top: 9px;
+  left: 12px;
+
+  color: black;
+}
+.nav-list {
+  display: flex;
+  list-style: none;
+  gap: 27px;
+}
+.nav-list li {
+  color: #d1d6da;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}

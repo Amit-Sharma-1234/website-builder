@@ -1,0 +1,100 @@
+.hero {
+  max-width: 1024px;
+
+  margin: auto;
+}
+.hero h1 {
+  width: 1006px;
+
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 60px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #2c384a;
+  margin-top: 38px;
+  margin-bottom: 12px;
+}
+.info-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 35px;
+  margin-bottom: 13px;
+}
+.left-info {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.right-info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.info-container img {
+  height: 20px;
+  width: 20px;
+  margin-left: 6px;
+}
+.right-info img {
+  height: 20px;
+  width: 20px;
+  margin-right: 12px;
+}
+hr {
+  height: 1.33px;
+  color: #e1e4e6;
+}
+.first-hero-list {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 12%;
+  margin-top: 15px;
+  margin-left: 10px;
+  margin-bottom: 18px;
+}
+.second-hero-list {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 2.3%;
+  margin-top: 25px;
+}
+
+.first-hero-list li,
+.second-hero-list li {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.relate {
+  width: 495px;
+  height: 44px;
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 44px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #2c384a;
+  margin-top: 160px;
+  margin-left: 50px;
+  margin-bottom: 40px;
+}
+.sm-cards {
+  display: flex;
+
+  gap: 26px;
+}
+.heading {
+  width: 495px;
+  height: 44px;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 44px;
+  color: #2c384a;
+}

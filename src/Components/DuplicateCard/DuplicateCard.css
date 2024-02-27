@@ -1,0 +1,102 @@
+.duplicate-card {
+  margin: auto;
+  width: 1024px;
+  margin-top: 13px;
+}
+
+.main-card {
+  width: 333px;
+  height: 425px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.comp-img {
+  width: 141px;
+  height: 103px;
+  margin-bottom: 16px;
+}
+.combo {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+.off {
+  font-family: Inter;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px;
+  color: #074786;
+  border-radius: 6px;
+  background-color: #f3f9ff;
+  padding: 0px 4px;
+}
+.limited-time {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  color: #074786;
+  border-radius: 6px;
+  background-color: #f3f9ff;
+  padding: 0px 4px;
+}
+.webbuilder {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #626e79;
+}
+
+.modern-computer {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+
+  width: 284px;
+  height: 48px;
+}
+.price-container {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+}
+.new-price {
+  width: 71px;
+  height: 28px;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 28px;
+  color: #5c6874;
+}
+.old-price {
+  width: 48px;
+  height: 20px;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  color: #9fa9b3;
+}
+.red-off {
+  width: 63px;
+  height: 20px;
+  font-family: Inter;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px;
+  color: #ef4c5d;
+}
+.view-btn {
+  width: 292px;
+  height: 48px;
+  color: #fff;
+  border: none;
+  background: #1b88f4;
+  border-radius: 12px;
+}
